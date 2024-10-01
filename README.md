@@ -1,2 +1,2 @@
 # fastapi-contacts-app
-App de contatos com fastAPI
+ App de contatos com fastAPI
